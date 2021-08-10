@@ -3,14 +3,26 @@
 In this project, I have designed and implemented a machine learning model that can efficiently predict if a text message is spam or not. Finally, this project is also implemented in form of a <strong>machine learning web application.</strong></p>
 
 # Files and Folders in this Repository:
-## Machine_Learning Folder:
-Machine learning code along with Flask web application is provided in spam_classifier.py<br>
+### Machine_Learning Folder:
+There are files inside this folder:
+1) Utils_Spam_Classifier: This file includes common python functions which will be called insider other two files.
+2) Preprocess_EDA_Spam_Classifier: This files will do preprocess and explanatory data analysis on the dataset. Then it will produce a modified version of dataset.
+3) Modeling_Spam_Classifier_Spam_Classifier: This file will apply machine learning modeling on the dataset.
 
-Folders Static folder includes two folders: "css" and "templates"<br>
-The "style.css" file includes the css file which is about the website interface.<br>
-The "templates" folder contains all HTML files of the web application.
-The optimized model is saved inside the model folder.
-Inside
+### Web Folder:
+The content of this folder are for machine learning web application. Inside this folder we have one file and two other folders. 
+1) Flask_Web_Application: This file includes python codes for web application. 
+2) Static/css/style.ss: This file includes css file for the interface of the website.
+3) templates: Inside templates, there are 4 HTML files for the web pages.
+
+### Model:
+The optimized model is saved in this folder.
+
+### Data:
+There are three datasets in this folder:
+1) SMSSpamCollection: It is the original dataset that can be download from UCI repository.
+2) df_new: It is one of the modified version of the dataset that I made.
+3) df_source: It is one of the modified version of the dataset that I made.
 
 # More Details:
 <p>More details is provided in my personal website at http://tednaseri.pythonanywhere.com/spam_classifier</p>
