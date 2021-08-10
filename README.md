@@ -4,9 +4,12 @@ In this project, I have designed and implemented a machine learning model that c
 
 # Files and Folders in this Repository:
 Machine learning code along with Flask web application is provided in spam_classifier.py<br>
-Static folder includes two folders: "css" and "templates"<br>
+
+Folders Static folder includes two folders: "css" and "templates"<br>
 The "style.css" file includes the css file which is about the website interface.<br>
 The "templates" folder contains all HTML files of the web application.
+The optimized model is saved inside the model folder.
+Inside
 
 # More Details:
 <p>More details is provided in my personal website at http://tednaseri.pythonanywhere.com/spam_classifier</p>
