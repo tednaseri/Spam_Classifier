@@ -15,10 +15,10 @@ The content of this folder are for machine learning web application. Inside this
 2) Static/css/style.ss: This file includes css file for the interface of the website.
 3) templates: Inside templates, there are 4 HTML files for the web pages.
 
-### Model:
+### Model Folder:
 The optimized model is saved in this folder.
 
-### Data:
+### Data Folder:
 There are three datasets in this folder:
 1) SMSSpamCollection: It is the original dataset that can be download from UCI repository.
 2) df_new: It is one of the modified version of the dataset that I made.
