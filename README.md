@@ -3,7 +3,7 @@
 In this project, I have designed and implemented a machine learning model that can efficiently predict if a text message is spam or not. Finally, this project is also implemented in form of a <strong>machine learning web application.</strong></p>
 
 # Files and Folders in this Repository:
-Machine learning codes for implementation of different algorithms along with Flask web application is provided in spam_classifier.py<br>
+Machine learning code along with Flask web application is provided in spam_classifier.py<br>
 Static folder includes two folders: "css" and "templates"<br>
 The "style.css" file includes the css file which is about the website interface.<br>
 The "templates" folder contains all HTML files of the web application.
