@@ -6,8 +6,8 @@ In this project, I have designed and implemented a machine learning model that c
 ### Machine_Learning Folder:
 There are three files inside this folder:
 1) Utils_Spam_Classifier: This file includes common functions for tasks like data manipulation or data visualization. These functions will be called by two other files.
-2) Preprocess_EDA_Spam_Classifier: This files will do preprocess and explanatory data analysis on the dataset. Then it will produce a modified version of dataset.
-3) Modeling_Spam_Classifier_Spam_Classifier: This file will apply machine learning modeling on the dataset.
+2) Preprocess_EDA_Spam_Classifier: This file including all the preprocess steps and explanatory data analysis on the dataset. It also prepares the dataset for machine learning.
+3) Modeling_Spam_Classifier: This file applies machine learning modeling on the dataset.
 
 ### Web Folder:
 The content of this folder are for machine learning web application. Inside this folder we have one file and two other folders. 
