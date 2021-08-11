@@ -13,7 +13,7 @@ There are three files inside this folder:
 The content of this folder are for machine learning web application. Inside this folder we have one file and two other folders. 
 1) Flask_Web_Application: This file includes python codes for web application. 
 2) Static/css/style.ss: This file includes css file for the interface of the website.
-3) templates: Inside templates, there are 4 HTML files for the web pages.
+3) templates folder: Inside this folder, there are 4 HTML files for the web pages.
 
 ### Model Folder:
 The optimized model is saved in this folder.
