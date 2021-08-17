@@ -25,4 +25,4 @@ There are three datasets in this folder:
 3) df_source: It is one of the modified version of the dataset that I made.
 
 # More Details:
-<p>More details is provided in my personal website at http://tednaseri.pythonanywhere.com/spam_classifier</p>
+<p>More details is provided in my personal website at https://www.tednaseri.com/spam_classifier</p>
